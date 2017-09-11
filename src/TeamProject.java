@@ -3,8 +3,8 @@ public class TeamProject {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Ã¹  git TeamProject ÀÔ´Ï´Ù");
-		System.out.println("µÎ¹øÂ° Ãß°¡ÇØ º¾´Ï´Ù.");
+		System.out.println("ì²«  git TeamProject ì…ë‹ˆë‹¤");
+		System.out.println("ì•ˆë…•í•˜ì„¸ìš”í™©ë•í¬ì…ë‹ˆë‹¤.");
 	}
 
 }
